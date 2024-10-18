@@ -7,8 +7,9 @@ td{
     animation-fill-mode: forwards;
 
 }
-a:hover{
-    background-color: rgb(175, 24, 110);
+a{
+  text-decoration: none;  
+  color: white;
 }
 
  .btn-watch-video {
